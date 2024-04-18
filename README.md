@@ -1,2 +1,3 @@
 # practice
-Author:Ram Bharosh sah
+Author:Ram Bharosh sah <bt>
+this  is my first Git pracitce.
